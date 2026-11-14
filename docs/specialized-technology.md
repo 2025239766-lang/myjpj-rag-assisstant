@@ -12,6 +12,11 @@
 2. **Retrieval:** When a user inputs a question, the query is converted into vector embeddings as well. The system compares the question's vector against all stored JPJ paragraphs to detect the top-$k$ closest matches and pull out the most relevant results.
 3. **Augmented Generation:** The system combines both the user's question and the retrieved JPJ paragraphs for the LLM to read, generates a reply in Bahasa Melayu or English (matching the user's input language), and attaches the official JPJ FAQ section as proof.
 
+<p align="center">
+  <img src="rag-workflow.png.png" alt="Figure 3.1.1: RAG Query Processing Workflow" width="350">
+  <br>
+  <em>Figure 3.1.1: RAG Query Processing Workflow</em>
+</p>
 
 ---
 
