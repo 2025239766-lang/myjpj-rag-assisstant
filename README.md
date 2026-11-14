@@ -20,6 +20,6 @@ Malaysian drivers, motorcyclists, and vehicle owners using the MyJPJ mobile appl
 ## Project Status
 * [x] Problem formulation and scope defined
 * [x] Requirements and user stories documented
-* [ ] Specialized technology (RAG) analysis documented
-* [ ] Research sources and citations compiled
-* [ ] Final technical report compiled
+* [x] Specialized technology (RAG) analysis documented
+* [x] Research sources and citations compiled
+* [x] Final technical report compiled
